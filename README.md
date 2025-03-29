@@ -13,9 +13,9 @@ Welcome to my GitHub! I'm a **Programmer**, **Developer**, **UI/UX designer**, a
 ---
 
 ## 📫 Let's Connect:
-- **LinkedIn**: [Dagmawi Isaiah](https://www.linkedin.com/in/dagmawi-isaiah-403a252ba/)
-- **Dribbble**: [Dagmawi Isaiah](https://dribbble.com/DagmawiIsaiah)
-- **Telegram**: [Dagmawi Isaiah](https://t.me/D_U_C_K_Y_E)
+- **LinkedIn**: [Dagmawi Esayas](https://www.linkedin.com/in/dagmawi-esayas-845583353/)
+- **Dribbble**: [Dagmawi Esayas](https://dribbble.com/DagmawiIsaiah)
+- **Telegram**: [Dagmawi Esayas](https://t.me/D_U_C_K_Y_E)
 
 ---
 

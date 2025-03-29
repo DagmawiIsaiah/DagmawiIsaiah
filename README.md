@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dagmawi Esayas (Isaiah)!
 
-Give me a week and let me work for free to show you my performance then we'll talk about contract.
+### Give me a week to prove myself then we'll talk about contract.
 
 Welcome to my GitHub! I'm a **Programmer**, **Developer**, **UI/UX designer**, and **Engineer** I thrive on turning ideas into impactful digital experiences. Whether it's designing intuitive interfaces, developing robust systems.
 ---
@@ -18,12 +18,6 @@ Welcome to my GitHub! I'm a **Programmer**, **Developer**, **UI/UX designer**, a
 - **LinkedIn**: [Dagmawi Esayas](https://www.linkedin.com/in/dagmawi-esayas-845583353/)
 - **Dribbble**: [Dagmawi Esayas](https://dribbble.com/DagmawiIsaiah)
 - **Telegram**: [Dagmawi Esayas](https://t.me/D_U_C_K_Y_E)
-
----
-
-## 🌱 Current Projects:
-- **Fig-Copilot**: Figma Design Annotation, Accessibility Checker & Support Documentation Generator.
-- **SOSI**: Reminder and Daily Task Tracker.
 
 ---
 

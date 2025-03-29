@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Dagmawi Esayas (Isaiah)!
 
+Give me a week and let me work for free to show you my performance then we'll talk about contract.
+
 Welcome to my GitHub! I'm a **Programmer**, **Developer**, **UI/UX designer**, and **Engineer** I thrive on turning ideas into impactful digital experiences. Whether it's designing intuitive interfaces, developing robust systems.
 ---
 
